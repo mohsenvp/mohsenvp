@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mohsenvp
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently working as iOS developer
 - 💞️ I’m looking to collaborate on new ideas
-- 📫 How to reach me : https://www.linkedin.com/in/mohsen-sedaghat-fard/
+- 📫 How to reach me : https://www.linkedin.com/in/mohsen-fard/
 
 <!---
 mohsenvp/mohsenvp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
